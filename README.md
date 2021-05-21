@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @tusarth
+- 👋 Hi, I’m @Tusarth Bihani
 - 👀 I’m interested in Data Analytics
 - 🌱 I’m currently learning Python, R, SQL, Machine Learning, Computer Vision, etc.
 - 💞️ I’m looking to collaborate on Data Analysis Project
